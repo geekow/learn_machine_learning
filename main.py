@@ -1,6 +1,11 @@
 # jjacobi 2017 - Machine Learning
 # jjacobi@student.42.fr
 
+# Credits:
+# The dataset has been found on UC Irvine Machine Learning Repository
+# Creator:    R.A. Fisher
+# Donor:      Michael Marshall (MARSHALL%PLU '@' io.arc.nasa.gov)
+# This program has been realized thanks to the tutorials of Dr. Jason Brownlee
 
 # Required libraries
 
